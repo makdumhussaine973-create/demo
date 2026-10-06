@@ -1,0 +1,6 @@
+{
+  "name": "FresherCompass",
+  "description": "Hyperlocal college student survival guide featuring interactive campus radar, senior student insider reviews, hangout spots, food, theatres, and emergency essentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
